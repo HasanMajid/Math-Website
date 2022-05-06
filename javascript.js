@@ -93,3 +93,4 @@ function checkAnswer(input){
       createQuestion()
    }
 }
+//making pancakes
